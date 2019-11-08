@@ -1,0 +1,2 @@
+include ':app', ':hw16'
+rootProject.name='Android_hw16'
